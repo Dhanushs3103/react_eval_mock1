@@ -1,4 +1,4 @@
-### Create an e-commerce website-
+<!-- ### Create an e-commerce website-
 
 -create a navbar with home, about , products, login in it.
 -you should have,
@@ -20,4 +20,26 @@
 
 - Implement private routing -
   - home and about are public route
-  - products , login and single product pages should be private i.e., only authenticated users only use these pages.
+  - products , login and single product pages should be private i.e., only authenticated users only use these pages. -->
+
+  ## E-commerce Website created using fakeStore.api
+
+  - Functionalities:
+    - product listing
+    - Single Product data
+    - Authentication using `reqres.in`
+    - Private Routing 
+    - Routing
+    - Dynamic Routes and Links
+
+---
+   
+  - Pages
+    - Home Page
+    - About Page
+    - Product Page
+    - Single Product Page
+    - Login Page
+
+
+----
